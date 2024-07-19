@@ -1,4 +1,4 @@
-# ResumeGen
+# Resume Builder
 ReactJS Basic Resume Builder which will generate customized Resume in few minutes on your requirements.
 
 ## 🖥️ Tech Stack
